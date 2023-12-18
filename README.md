@@ -1,3 +1,3 @@
 # DPC transcription-stress
-Macro for EU signal quantification inside en outside DNMT1-DPC foci.
+Macro for EU signal quantification inside and outside DNMT1-DPC foci.
 
